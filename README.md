@@ -11,6 +11,6 @@ I have added the following features:
 
 The format of the csv files is the following:
 <pre><code>
-<object-class-id> <center-x> <center-y> <width> <height></code></pre>
+object-class-id , center-x , center-y , width , height</code></pre>
 
 The folder containing the files must be in Google Colab and it is declared in the variable <code>ANNOTATIONS_DIR_PREFIX</code> and the folder containing the .xml files it is declared in <code>DESTINATION_DIR</code>. The key for classID-object type is declared in <code>CLASS_MAPPING</code>
