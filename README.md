@@ -10,7 +10,6 @@ I have added the following features:
 3. It takes the width and height from the csv file instead of from the pictures
 
 The format of the csv files is the following:
-<pre><code>
-object-class-id , center-x , center-y , width , height</code></pre>
+<pre><code>object-class-id , center-x , center-y , width , height</code></pre>
 
 The folder containing the files must be in Google Colab and it is declared in the variable <code>ANNOTATIONS_DIR_PREFIX</code> and the folder containing the .xml files it is declared in <code>DESTINATION_DIR</code>. The key for classID-object type is declared in <code>CLASS_MAPPING</code>
