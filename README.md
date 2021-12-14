@@ -1,5 +1,5 @@
 # CSV2VOC
-Script to convert a CSV file into an XML (VOC based) file to perform YOLOv3 training.
+Script to convert a CSV file into an XML (VOC based) file to perform YOLOv3 training..
 
 This script is an adaptation of the script [Yolo_to_voc.py](https://gist.github.com/goodhamgupta/7ca514458d24af980669b8b1c8bcdafd) by [goodhamgupta](https://gist.github.com/goodhamgupta).
 
